@@ -8,3 +8,4 @@ export function calculaMedia(a){
     const media = soma / a.length
     return media
 }
+
